@@ -1,0 +1,1 @@
+import{ap as a}from"./index-DUfKvXl3.js";const o=t=>a.get("/category",{params:{id:t}}),r=t=>a.get("/category/sub/filter",{params:{id:t}}),g=t=>a.post("/category/goods/temporary",t);export{r as a,g as b,o as g};

@@ -1,0 +1,1 @@
+import{ap as e}from"./index-DUfKvXl3.js";const s=()=>e.get("/home/category/head"),a=t=>e.get("/home/banner",{params:{distributionSite:t}}),n=()=>e.get("/home/new"),r=()=>e.get("/home/goods");export{r as a,s as b,a as c,n as g};
